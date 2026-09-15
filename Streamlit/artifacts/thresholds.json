@@ -1,0 +1,14 @@
+{
+  "type": {
+    "alta": 0.8,
+    "media": 0.6
+  },
+  "priority": {
+    "alta": 0.8,
+    "media": 0.6
+  },
+  "queue": {
+    "alta": 0.8,
+    "media": 0.6
+  }
+}
